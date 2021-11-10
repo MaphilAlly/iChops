@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646105005372",
+    "project_id": "ichops-87e6e",
+    "storage_bucket": "ichops-87e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646105005372:android:eb152391d19218d6193239",
+        "android_client_info": {
+          "package_name": "com.phil.ichops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646105005372-9akqftal2e1jo01nm2rfla3jl4adnoh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_LBSY9yLvcL6Ha3S20k0SpKMtqWpFZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646105005372-9akqftal2e1jo01nm2rfla3jl4adnoh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
